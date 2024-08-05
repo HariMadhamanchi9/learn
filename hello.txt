@@ -1,2 +1,4 @@
 hi my name is hari 
 check repo 
+
+want to know if its shown in local working dir 
